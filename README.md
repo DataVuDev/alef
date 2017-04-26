@@ -8,13 +8,13 @@
 <br>
 <h2>Adding Code:</h2>
 <h3> There are multiple ways to add code to an HTML file in Alef:</h3>
-</strong><p>1: You can link to an external '.alef' file like this:</p></strong>
+<p>1: You can link to an external '.alef' file like this:</p>
 <p>alef.link("[Link to '.alef' file.]")</p>
 <br>
-</strong><p>2: You can edit one directly:</p></strong>
+<p>2: You can edit one directly:</p>
 <p>alef.code("[Code seperated by ';', code must remain inline.]")</p>
 <br>
-</strong><p>3: You can add Alef attributes directly to the HTML Element:</p></strong>
+<p>3: You can add Alef attributes directly to the HTML Element:</p>
 <p>< p [Alef Attribute]="[command]"/></p>
 <br>
 <br>
