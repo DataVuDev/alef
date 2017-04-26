@@ -1,4 +1,5 @@
 <h1>𐡀 Alef (alef.js)</h1>
+<p>Official alef.js release: https://raw.githubusercontent.com/DataVuDev/alef/master/alef.js</p>
 <h3>Created by: DataVu.us</h3>
 <br>
 <h2>Description:</h2>
