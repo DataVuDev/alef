@@ -17,10 +17,3 @@
 <br>
 <p>3: You can add Alef attributes directly to the HTML Element:</p>
 <p>< p [Alef Attribute]="[command]"/></p>
-<br>
-<br>
-<br>
-<h2>Colors:</h2>
-<h3>Alef accepts multiple types of color codes:</h3>
-<p>CSS Color Codes: e.g. 'DarkRed' (https://www.w3schools.com/cssref/css_colors.asp)</p>
-<p>HTML Hex Codes: e.g. '#ff0022' (https://www.w3schools.com/colors/color_tryit.asp?hex=DC143C)</p>
